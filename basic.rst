@@ -3,7 +3,7 @@ FPGA Fundamentals
 ##################
 
 These are the fundamental concepts that are important to understand when designing FPGAs.
-All subchapters are curtusy of `nandland.com <https://www.nandland.com/>`_.
+FPGA Fundamentals are courtesy of `nandland.com <https://www.nandland.com/>`_.
 
 .. toctree::                                                                                                                          
     :maxdepth: 1                                                                                                                      
