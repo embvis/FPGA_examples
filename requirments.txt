@@ -1,2 +1,5 @@
 sphinx
 cloud_sptheme
+
+# support for http://wavedrom.com
+sphinxcontrib-wavedrom
