@@ -2,7 +2,7 @@
 Red Pitaya FPGA Examples
 #########################
 
-`Red Pitaya <http://redpitaya.com/>` is a `Zynq7 FPGA <https://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html>`_
+`Red Pitaya <http://redpitaya.com/>`_ is a `Zynq7 FPGA <https://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html>`_
 – based low cost electronic board with many components such as two core ARM processor, fast ADCs, fast DACs, USB, LAN,
 etc. In many respects Red Pitaya is similar to the Arduino or Rasbery Pi with large community of enthusiasts and 
 increasing collection of open-source material. What makes Red Pitaya even better are two fast ADCs, two fast DACs and,
