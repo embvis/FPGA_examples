@@ -19,7 +19,7 @@ such as radar, radio systems, vector-network-analyzer, etc.
     :numbered: 
 
     setup.rst
+    basic.rst
     simple.rst
     advanced.rst
 
-.. TODO: readd    basic.rst
